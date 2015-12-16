@@ -10,16 +10,16 @@
 
 Cette balade s'est déroulé à l’occasion du festival francophone le Temps des #communs. Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.org/) ont proposé d’organiser une exploration des jardins partagés de l’agglomération nantaise le samedi 3 octobre de 14h à 17h. L’objectif est double : découvrir et valoriser ces jardiniers, mais aussi mieux comprendre l’histoire du jardin, son organisation collective. Un article de présentation de la journée est visible sur [Bretagne Créative](http://www.bretagne-creative.net/article733.html).
 
-## Jardin partagé? 
+## Regards croisés de jardiniers des Communs à Nantes
 
-<iframe style="width: 240px; height: 20px;" frameborder="0" scrolling="no" src="http://www.gmodules.com/gadgets/ifr?url=https://googledrive.com/host/0B4yfJJJSNrfubzJEUkxIYm1PcHM/dewplayer-multi.xml
-&up_MP3S=https://sites.google.com/site/annuairevin/files/carl_orff_carmina_o_fortuna.mp3%7C
-https://sites.google.com/site/annuairevin/files/rossini_swiss_posthorn.mp3 | https://sites.google.com/site/annuairevin/files/carl_orff_carmina_o_fortuna.mp3%7C
-https://sites.google.com/site/annuairevin/files/rossini_swiss_posthorn.mp3 | https://sites.google.com/site/annuairevin/files/carl_orff_carmina_o_fortuna.mp3%7C
-https://sites.google.com/site/annuairevin/files/rossini_swiss_posthorn.mp3
-&up_START=No
-&up_LOOP=No
-&up_CCOL=%23d1dae3">Gadget Google - Lecteur Flash Dewplayer (multi) - http://www.liens-du-vin.ch/flash_dewplayer-script.htm</iframe>
+### En visite aux Jardins Familiaux du Breil Coubertin
+
+> 14 parcelles. Livrés au printemps 2011, les jardins du Breil Coubertin, situés à côté de l'Eglise Saint Luc, sont visibles depuis le boulevard Pierre de Coubertin et ont été réalisés en terrasses, Quartier Nantes Ouest. Pour géolocaliser la zone cliquez [ici].
+
+### La vision de la mairie à ce sujet
+
+> Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/institution/conseil-municipal/vos-65-elu-e-s/pierre-yves-le-brun.html), conseiller municipal "Ecotourisme et jardins familiaux" à la ville de Nantes. 
+
 
 
 
