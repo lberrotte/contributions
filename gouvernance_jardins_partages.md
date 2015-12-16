@@ -4,20 +4,21 @@
 
 > Un jardin partagé est un jardin conçu, construit et cultivé collectivement par les habitants d’un quartier, d’un village. Définition de l’association « Le Passe-jardins » à Lyon.
 
-## Contexte 
+## En contexte nantais
 
 ![FestivalCommuns](http://www.selfcity.be/uploads/3/8/5/1/38514543/4482453.jpg?294)
 
 Cette balade s'est déroulé à l’occasion du festival francophone le Temps des #communs. Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.org/) ont proposé d’organiser une exploration des jardins partagés de l’agglomération nantaise le samedi 3 octobre de 14h à 17h. L’objectif est double : découvrir et valoriser ces jardiniers, mais aussi mieux comprendre l’histoire du jardin, son organisation collective. Un article de présentation de la journée est visible sur [Bretagne Créative](http://www.bretagne-creative.net/article733.html).
 
-## Retours d'expérience
-
-### Jardins partagés de Beaulieu 
+## La gouvernance des jardins partagés de Beaulieu
 
 > Lorsqu'un bailleur social délègue en 2013 la gestion du terrain privé à une association
 
-1'44
-
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#ffffff" />
+    <param name="FlashVars" value="mp3=KwLBYmWpOy5up3iqnnQpFZWdcHqNwXNQ5moBSJgtFrQn2yEckyB0dlFsxVbWpmEX&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
+</object>
 > Déléguer les compétences (formation de 10h/mois) à une animatrice salariée
 
 3,47
