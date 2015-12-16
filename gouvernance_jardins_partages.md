@@ -36,8 +36,15 @@ Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/in
 <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3.swf" width="200" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3.swf" />
     <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/h8asJawOqCfBLoqvvcEAUQDVAXvlJTduWA6LXGi9ix7JiZ6ZDTcCw6PGWcKNtuyJ/file" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/h8asJawOqCfBLoqvvcEAUQDVAXvlJTduWA6LXGi9ix7JiZ6ZDTcCw6PGWcKNtuyJ/file" />
 </object>
+
+
+<iframe style="width: 240px; height: 20px;" frameborder="0" scrolling="no" src="http://www.gmodules.com/gadgets/ifr?url=https://dl.dropboxusercontent.com/content_link/h8asJawOqCfBLoqvvcEAUQDVAXvlJTduWA6LXGi9ix7JiZ6ZDTcCw6PGWcKNtuyJ/file
+&up_START=No
+&up_LOOP=No
+&up_CCOL=%23d1dae3">Gadget Google - Lecteur Flash Dewplayer (volume) - http://www.liens-du-vin.ch/flash_dewplayer-script.htm</iframe>
+
 
 
 
