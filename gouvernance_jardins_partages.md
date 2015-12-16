@@ -32,9 +32,7 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
     <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/iBwpq6dGSeWAl5hlyc0DNAffa013ayXXQbOQ0c6PsDcgAYud0uhyuO83wdmxumy0/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
 </object>
 
-> Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. 
-
-<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
+> Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. ... via <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
     <param name="bgcolor" value="#ffffff" />
     <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/jtR1rhae93kQyWJd2kb3Q9qHHaOsLsmKVB2k7nDjhMBBkrweS3rrLlyc8vajw3tH/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
