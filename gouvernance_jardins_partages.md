@@ -12,18 +12,23 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 
 ## La gouvernance des jardins partagés de Beaulieu
 
-> Lorsqu'un bailleur social délègue en 2013 la gestion du terrain privé à une association
+**Propos recueillis par [...], sous licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)**
+
+> Lorsqu'un bailleur social délègue en 2013 la gestion de son terrain une association
 
 <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
     <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=KwLBYmWpOy5up3iqnnQpFZWdcHqNwXNQ5moBSJgtFrQn2yEckyB0dlFsxVbWpmEX&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
+    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/UFsA685V1KCsSdQEO9uo3aw6mCOOO3DedP8vcVKTZOWYwX4liNsxOO7J27KJwjlN/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
 </object>
 
 > Déléguer les compétences (formation de 10h/mois) à une animatrice salariée
 
-3,47
-
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#ffffff" />
+    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/UFsA685V1KCsSdQEO9uo3aw6mCOOO3DedP8vcVKTZOWYwX4liNsxOO7J27KJwjlN/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
+</object>
 > J'imaginai un projet sur au moins 3 ans pour mobiliser les jeunes et les habitants du quartier
 
 4'20
