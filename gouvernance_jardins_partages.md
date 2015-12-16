@@ -12,11 +12,13 @@ Cette balade s'est déroulé à l’occasion du festival francophone le Temps de
 
 ## Jardin partagé? 
 
-<iframe style="width: 240px; height: 20px;" frameborder="0" scrolling="no" src="http://www.gmodules.com/gadgets/ifr?url=https://googledrive.com/host/0B4yfJJJSNrfubzJEUkxIYm1PcHM/dewplayer.xml
-&up_MP3=https://sites.google.com/site/annuairevin/files/carl_orff_carmina_o_fortuna.mp3
+<iframe style="width: 240px; height: 20px;" frameborder="0" scrolling="no" src="http://www.gmodules.com/gadgets/ifr?url=https://googledrive.com/host/0B4yfJJJSNrfubzJEUkxIYm1PcHM/dewplayer-multi.xml
+&up_MP3S=https://sites.google.com/site/annuairevin/files/carl_orff_carmina_o_fortuna.mp3%7C
+https://sites.google.com/site/annuairevin/files/rossini_swiss_posthorn.mp3
 &up_START=No
 &up_LOOP=No
-&up_CCOL=%23d1dae3">Gadget Google - Lecteur Flash Dewplayer - http://www.liens-du-vin.ch/flash_dewplayer-script.htm</iframe>
+&up_CCOL=%23d1dae3">Gadget Google - Lecteur Flash Dewplayer (multi) - http://www.liens-du-vin.ch/flash_dewplayer-script.htm</iframe>
+
 
 
 
