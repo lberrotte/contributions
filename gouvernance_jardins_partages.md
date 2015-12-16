@@ -6,9 +6,9 @@
 
 ## Contexte 
 
-Cette balade s'est déroulé à l’occasion du festival francophone le Temps des #communs. Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.org/) ont proposé d’organiser une exploration des jardins partagés de l’agglomération nantaise le samedi 3 octobre de 14h à 17h. L’objectif est double : découvrir et valoriser ces jardiniers, mais aussi mieux comprendre l’histoire du jardin, son organisation collective. Un article de présentation de la journée est visible sur [Bretagne Créative](http://www.bretagne-creative.net/article733.html).
+![FestivalCommuns](http://www.selfcity.be/uploads/3/8/5/1/38514543/4482453.jpg?294)
 
-![Temps des Communs](https://camo.githubusercontent.com/79b5d2406db94ef8dcab9cc7500ebb5a982341aa/687474703a2f2f7777772e667269747572656d61672e696e666f2f494d472f706e672f7464632d65313432333536353137343537392e706e67)
+Cette balade s'est déroulé à l’occasion du festival francophone le Temps des #communs. Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.org/) ont proposé d’organiser une exploration des jardins partagés de l’agglomération nantaise le samedi 3 octobre de 14h à 17h. L’objectif est double : découvrir et valoriser ces jardiniers, mais aussi mieux comprendre l’histoire du jardin, son organisation collective. Un article de présentation de la journée est visible sur [Bretagne Créative](http://www.bretagne-creative.net/article733.html).
 
 ## Jardin partagé? 
 
