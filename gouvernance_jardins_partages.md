@@ -27,35 +27,41 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
     <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/UFsA685V1KCsSdQEO9uo3aw6mCOOO3DedP8vcVKTZOWYwX4liNsxOO7J27KJwjlN/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/WTfMKomngDtIj1kMnhMqHSbOdTt7lQVoFYkOYVfKYR0N0GSKPMZR0vPOoaN3z9Qk/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
 </object>
+
 > J'imaginai un projet sur au moins 3 ans pour mobiliser les jeunes et les habitants du quartier
 
-4'20
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#ffffff" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/iBwpq6dGSeWAl5hlyc0DNAffa013ayXXQbOQ0c6PsDcgAYud0uhyuO83wdmxumy0/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
+</object>
 
 > Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. 
 
-5'40 - 8'30
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#ffffff" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/jtR1rhae93kQyWJd2kb3Q9qHHaOsLsmKVB2k7nDjhMBBkrweS3rrLlyc8vajw3tH/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
+</object>
 
-> Il n'y a pas de mode de décision "classique". A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien. 
+> Il n'y a pas de mode de décision "classique". A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs. 
 
-11'34 - 12'50
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#ffffff" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/qBGZsgqBHYDpkh5uU1FMXLAGN3Uctn91smD4zh3Llge7pEkvBvXa8WP5ZcWOyjDv/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
+</object>
+
 
 > Le partage des cultures et des récoltes se fait en mangeant ensemble. 
 
-14'47 - 16'35
-
-
-
-
-
-
-
-
-
-
-
-
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#ffffff" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/USJ4HNk7CJu37Z4hK6z5ISbVZbk7GEVYXmJMQD0SpPzik3NUx65teSyU3EEVZyF6/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
+</object>
 
 
 
@@ -71,7 +77,7 @@ Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/in
 <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
     <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=KwLBYmWpOy5up3iqnnQpFZWdcHqNwXNQ5moBSJgtFrQn2yEckyB0dlFsxVbWpmEX&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/1ZmOFSxTakU4GujTg7hAp2GRsUm3OcvH71cVVB5UiTiZaptsvEPY8q29OszXz2TE/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
 </object>
 
 #### Extraits 
