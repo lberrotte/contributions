@@ -17,9 +17,17 @@ Cette balade s'est déroulé à l’occasion du festival francophone le Temps de
 > 14 parcelles. Livrés au printemps 2011, les jardins du Breil Coubertin, situés à côté de l'Eglise Saint Luc, sont visibles depuis le boulevard Pierre de Coubertin et ont été réalisés en terrasses, Quartier Nantes Ouest. Pour géolocaliser la zone cliquez [ici].
 
 
-### La mairie se positionne comme accompagnatrice des projets
+### La mairie se positionne comme accompagnatrice des projets citoyens
 
 Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/institution/conseil-municipal/vos-65-elu-e-s/pierre-yves-le-brun.html), conseiller municipal "Ecotourisme et jardins familiaux" à la ville de Nantes. 
+
+#### Piste audio 
+
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#ffffff" />
+    <param name="FlashVars" value="mp3=KwLBYmWpOy5up3iqnnQpFZWdcHqNwXNQ5moBSJgtFrQn2yEckyB0dlFsxVbWpmEX&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
+</object>
 
 #### Extraits 
 
