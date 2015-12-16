@@ -12,6 +12,46 @@ Cette balade s'est déroulé à l’occasion du festival francophone le Temps de
 
 ## Retours d'expérience
 
+### Jardins partagés de Beaulieu 
+
+> Lorsqu'un bailleur social délègue en 2013 la gestion du terrain privé à une association
+
+1'44
+
+> Déléguer les compétences (formation de 10h/mois) à une animatrice salariée
+
+3,47
+
+> J'imaginai un projet sur au moins 3 ans pour mobiliser les jeunes et les habitants du quartier
+
+4'20
+
+> Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. 
+
+5'40 - 8'30
+
+> Il n'y a pas de mode de décision "classique". A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien. 
+
+11'34 - 12'50
+
+> Le partage des cultures et des récoltes se fait en mangeant ensemble. 
+
+14'47 - 16'35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### En visite aux Jardins Familiaux du Breil Coubertin
 
 > 14 parcelles. Livrés au printemps 2011, les jardins du Breil Coubertin, situés à côté de l'Eglise Saint Luc, sont visibles depuis le boulevard Pierre de Coubertin et ont été réalisés en terrasses, Quartier Nantes Ouest. Pour géolocaliser la zone cliquez [ici].
@@ -20,8 +60,6 @@ Cette balade s'est déroulé à l’occasion du festival francophone le Temps de
 ### La mairie se positionne comme accompagnatrice des projets citoyens
 
 Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/institution/conseil-municipal/vos-65-elu-e-s/pierre-yves-le-brun.html), conseiller municipal "Ecotourisme et jardins familiaux" à la ville de Nantes. 
-
-#### Piste audio 
 
 <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
@@ -37,22 +75,7 @@ Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/in
 
 > Cinq modules de formation "le jardin au naturel" sont proposés gratuitement. Il y a une quinzaine de participants à chaque session. 
 
-> La Prairie En Amont, lancé par un collectif d'habitants, ont valorisé une prairie par le jardinage et la valorisation artistique. 
 
-**Ecouter la piste audio dans son intégralité** 
-
-<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3.swf" width="200" height="20">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3.swf" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/h8asJawOqCfBLoqvvcEAUQDVAXvlJTduWA6LXGi9ix7JiZ6ZDTcCw6PGWcKNtuyJ/file" />
-</object>
-
-
-<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="260" height="20">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/h8asJawOqCfBLoqvvcEAUQDVAXvlJTduWA6LXGi9ix7JiZ6ZDTcCw6PGWcKNtuyJ/file&amp;width=260" />
-</object>
 
 
 
