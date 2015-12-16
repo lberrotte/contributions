@@ -38,6 +38,11 @@ Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/in
 &up_LOOP=No
 &up_CCOL=%23d1dae3">Gadget Google - Lecteur Flash Dewplayer (volume) - http://www.liens-du-vin.ch/flash_dewplayer-script.htm</iframe> 
 
+<iframe style="width: 240px; height: 20px;" frameborder="0" scrolling="no" src="http://www.gmodules.com/gadgets/ifr?url=https://googledrive.com/host/0B4yfJJJSNrfubzJEUkxIYm1PcHM/dewplayer.xml
+&up_MP3=https://sites.google.com/site/annuairevin/files/carl_orff_carmina_o_fortuna.mp3
+&up_START=No
+&up_LOOP=No
+&up_CCOL=%23d1dae3">Gadget Google - Lecteur Flash Dewplayer - http://www.liens-du-vin.ch/flash_dewplayer-script.htm</iframe> 
 
 
 
