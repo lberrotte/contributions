@@ -1,9 +1,8 @@
 # Quelle gouvernance pour les jardins partagés ? 
 
-> Une restitution audio de la découverte des *jardiniers des communs* le 03/10/15 à Nantes
+![Jardins partagés](http://www.nantesvillecomestible.org/wp-content/uploads/2015/09/photo_3_article_ouishare-50f01-604x270.jpg) *Photo par [Jalb](https://www.flickr.com/photos/jalb/), selon les termes de la licence Creative Commons BY-NC-ND*
 
-![Jardins partagés](http://www.nantesvillecomestible.org/wp-content/uploads/2015/09/photo_3_article_ouishare-50f01-604x270.jpg)
-*Photo par [Jalb](https://www.flickr.com/photos/jalb/), selon les termes de la licence Creative Commons BY-NC-ND*
+> Un jardin partagé est un jardin conçu, construit et cultivé collectivement par les habitants d’un quartier, d’un village. Définition de l’association « Le Passe-jardins » à Lyon.
 
 ## Contexte 
 
@@ -13,6 +12,5 @@ Cette balade s'est déroulé à l’occasion du festival francophone le Temps de
 
 ## Jardin partagé? 
 
-> Un jardin partagé est un jardin conçu, construit et cultivé collectivement par les habitants d’un quartier, d’un village. Définition de l’association « Le Passe-jardins » à Lyon.
 
 
