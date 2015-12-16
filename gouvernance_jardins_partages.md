@@ -33,11 +33,11 @@ Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/in
 
 **Ecouter la piste audio dans son intégralité** 
 
-<iframe style="width: 240px; height: 20px;" frameborder="0" scrolling="no" src="http://www.gmodules.com/gadgets/ifr?url=https://googledrive.com/host/0B4yfJJJSNrfubzJEUkxIYm1PcHM/dewplayer-vol.xml
-&up_MP3=https://www.dropbox.com/s/q2o2nbkglkufc4y/PYL.mp3
-&up_START=No
-&up_LOOP=No
-&up_CCOL=%23d1dae3">Gadget Google - Lecteur Flash Dewplayer (volume) - http://www.liens-du-vin.ch/flash_dewplayer-script.htm</iframe> 
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3.swf" width="200" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3.swf" />
+    <param name="bgcolor" value="#ffffff" />
+    <param name="FlashVars" value="mp3=https%3A//www.dropbox.com/s/q2o2nbkglkufc4y/PYL.mp3%3Fdl%3D0420" />
+</object>
 
 
 
