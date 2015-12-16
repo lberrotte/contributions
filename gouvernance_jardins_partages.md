@@ -36,11 +36,8 @@ Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/in
 <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3.swf" width="200" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3.swf" />
     <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="https://dl.dropboxusercontent.com/content_link/h8asJawOqCfBLoqvvcEAUQDVAXvlJTduWA6LXGi9ix7JiZ6ZDTcCw6PGWcKNtuyJ/file" />
+    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/h8asJawOqCfBLoqvvcEAUQDVAXvlJTduWA6LXGi9ix7JiZ6ZDTcCw6PGWcKNtuyJ/file" />
 </object>
-
-
-
 
 
 
