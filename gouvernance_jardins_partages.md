@@ -1,8 +1,8 @@
 # Quelle gouvernance pour les jardins partagés ? 
 
-![Jardins partagés](http://www.nantesvillecomestible.org/wp-content/uploads/2015/09/photo_3_article_ouishare-50f01-604x270.jpg) *Photo par [Jalb](https://www.flickr.com/photos/jalb/), selon les termes de la licence Creative Commons BY-NC-ND*
+> Ici, on partage les légumes en mangeant ensemble. 
 
-> Un jardin partagé est un jardin conçu, construit et cultivé collectivement par les habitants d’un quartier, d’un village. Définition de l’association « Le Passe-jardins » à Lyon.
+![Jardins partagés](http://www.nantesvillecomestible.org/wp-content/uploads/2015/09/photo_3_article_ouishare-50f01-604x270.jpg) *Photo par [Jalb](https://www.flickr.com/photos/jalb/), selon les termes de la licence Creative Commons BY-NC-ND*
 
 ## En contexte nantais
 
@@ -17,43 +17,20 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 > Lorsqu'un bailleur social délègue en 2013 la gestion de son terrain à une association ...  
 > A écouter [ici](https://dl.dropboxusercontent.com/content_link/kF02vlc7ZSif3uTQyQHFS2NQWgCfBcLn7my2CBLw4ViUD4Ag4Vfj3JsTDldGMmGp/file)
 
-> A écouter sur : <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/UFsA685V1KCsSdQEO9uo3aw6mCOOO3DedP8vcVKTZOWYwX4liNsxOO7J27KJwjlN/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
-</object>
+> On m'a délégué les compétences en tant qu'animatrice salariée à raison de 10 heures de formation par mois durant une année. 
+> A écouter [ici](https://dl.dropboxusercontent.com/content_link/WTfMKomngDtIj1kMnhMqHSbOdTt7lQVoFYkOYVfKYR0N0GSKPMZR0vPOoaN3z9Qk/file)
 
-> Déléguer les compétences (formation de 10h/mois) à une animatrice salariée ... via <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/WTfMKomngDtIj1kMnhMqHSbOdTt7lQVoFYkOYVfKYR0N0GSKPMZR0vPOoaN3z9Qk/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
-</object>
+> J'imaginai un projet sur au moins 3 ans pour mobiliser les jeunes et les habitants du quartier ...
+> A écouter [ici](https://dl.dropboxusercontent.com/content_link/iBwpq6dGSeWAl5hlyc0DNAffa013ayXXQbOQ0c6PsDcgAYud0uhyuO83wdmxumy0/file)
 
-> J'imaginai un projet sur au moins 3 ans pour mobiliser les jeunes et les habitants du quartier ... via <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/iBwpq6dGSeWAl5hlyc0DNAffa013ayXXQbOQ0c6PsDcgAYud0uhyuO83wdmxumy0/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
-</object>
+> Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. ... 
+> A écouter [ici](https://dl.dropboxusercontent.com/content_link/jtR1rhae93kQyWJd2kb3Q9qHHaOsLsmKVB2k7nDjhMBBkrweS3rrLlyc8vajw3tH/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29")
 
-> Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. ... via <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/jtR1rhae93kQyWJd2kb3Q9qHHaOsLsmKVB2k7nDjhMBBkrweS3rrLlyc8vajw3tH/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
-</object>
+> Il n'y a pas de mode de décision "classique". A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs. ... 
+> A écouter [ici](https://dl.dropboxusercontent.com/content_link/qBGZsgqBHYDpkh5uU1FMXLAGN3Uctn91smD4zh3Llge7pEkvBvXa8WP5ZcWOyjDv/file)
 
-> Il n'y a pas de mode de décision "classique". A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs. ... via  <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/qBGZsgqBHYDpkh5uU1FMXLAGN3Uctn91smD4zh3Llge7pEkvBvXa8WP5ZcWOyjDv/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
-</object>
-
-
-> Le partage des cultures et des récoltes se fait en mangeant ensemble ... via <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/USJ4HNk7CJu37Z4hK6z5ISbVZbk7GEVYXmJMQD0SpPzik3NUx65teSyU3EEVZyF6/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
-</object>
-
+> Le partage des cultures et des récoltes se fait en mangeant ensemble ... 
+> A écouter [ici](https://dl.dropboxusercontent.com/content_link/USJ4HNk7CJu37Z4hK6z5ISbVZbk7GEVYXmJMQD0SpPzik3NUx65teSyU3EEVZyF6/file)
 
 ### En visite aux Jardins Familiaux du Breil Coubertin
 
