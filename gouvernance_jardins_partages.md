@@ -73,7 +73,7 @@ Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.
 > Un drapeau rouge sur une parcelle signifie que vous pouvez arroser le jardin, et en même temps arroser. On se soutient.
 [► à écouter ici](https://dl.dropboxusercontent.com/content_link/M5VwNu5jPZIXTbv9bH6ebMReF70wVluqkVhJtteKS6a3d7FTXeQsBX4bC7Rc3k8d/file)
 
-### La mairie de Nantes se positionne comme accompagnatrice des projets citoyens
+## La mairie de Nantes se positionne comme accompagnatrice des projets citoyens
 
 Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/institution/conseil-municipal/vos-65-elu-e-s/pierre-yves-le-brun.html), conseiller municipal "Ecotourisme et jardins familiaux" à la ville de Nantes. 
 
