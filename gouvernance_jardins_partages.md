@@ -14,8 +14,7 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 
 **Propos recueillis par [...], sous licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)**
 
-* Lorsqu'un bailleur social délègue en 2013 la gestion de son terrain à une association ...  
-
+> Lorsqu'un bailleur social délègue en 2013 la gestion de son terrain à une association ...  
 > A écouter sur : <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
     <param name="bgcolor" value="#ffffff" />
