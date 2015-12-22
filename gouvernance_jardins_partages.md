@@ -12,9 +12,7 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 
 ## La gouvernance des jardins partagés de Beaulieu
 
-**Propos recueillis par [...], sous licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)**
-
-> Lorsqu'un bailleur social délègue en 2013 la gestion de son terrain à une association ...  
+> Un bailleur social nous (associaiton) à délégué en 2013 la gestion de son terrain ...
 > [► à écouter ici](https://dl.dropboxusercontent.com/content_link/kF02vlc7ZSif3uTQyQHFS2NQWgCfBcLn7my2CBLw4ViUD4Ag4Vfj3JsTDldGMmGp/file)
 
 > On m'a délégué les compétences en tant qu'animatrice salariée à raison de 10 heures de formation par mois durant une année. 
@@ -32,12 +30,35 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 > Le partage des cultures et des récoltes se fait en mangeant ensemble ... 
 > [► à écouter ici](https://dl.dropboxusercontent.com/content_link/USJ4HNk7CJu37Z4hK6z5ISbVZbk7GEVYXmJMQD0SpPzik3NUx65teSyU3EEVZyF6/file)
 
-### En visite aux Jardins Familiaux du Breil Coubertin
+### En visite aux Jardins Familiaux du [Breil Coubertin](http://www.jardins.nantes.fr/N/Localisation/Site-1-Localisation.asp?codsit=%201944&p=239)
 
-> 14 parcelles. Livrés au printemps 2011, les jardins du Breil Coubertin, situés à côté de l'Eglise Saint Luc, sont visibles depuis le boulevard Pierre de Coubertin et ont été réalisés en terrasses, Quartier Nantes Ouest. Pour géolocaliser la zone cliquez [ici].
+### Jardin partagé du Breil 
 
+> Après deux ans de réflexion avec des habitants du quartier on a décidé de lancer une parcelle. On était 7-8 à s'en occuper. Puis la mairie nous a proposé une plus grosse parcelle et on a accepté.
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/3YHdZNBRFX9vH86bYMqAeolVqknlVbDXuCBXi4NVYsiRCb4AWqNarmWibdCwIjUL/file)
 
-### La mairie se positionne comme accompagnatrice des projets citoyens
+> Pour le fonctionnement on se retrouve avec une régularité différente en fonction des saisons. A la récolte il y en a une qui prend tout ce qui a été ramassé, fait des petits sachets, et on distribue. Pour les petits pois, il n'y en a que deux qui les récoltent, mais on fait un repas collectif. Pour le repas c'est chez Renée, à la campagne! 
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/m55jGEb4j8BqI3jBfVxpzSKScwpRqIcfTmpWsvUzL9CQz69eOKYsjKsKVtqL2d4H/file)
+
+> Une petite assemblée avant le printemps pour définir ce qu'on a envie de mettre dans le jardin. On demande à Jeannette, elle connaît les cultures. 
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/JnmfG2rtWThyJmG4CZvcD4BL52wjNhGBccEez8ONNjVYnM98znE1ewSisNIIfJDI/file)
+
+> On a établi une charte dès le début du jardin, qu'on revérifie au début de chaque printemps. Il faut semer pour récolter. Ceci dit parfois on est généreuses.
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/hgQekhW90i2tivRcbDWslSOil7iBUa71MfG0jT87boMTEsVJb47e8QXbNXioFSK6/file)
+
+> Au départ il y avait 4 associations liées au jardin, maintenant il n'y en a plus qu'une. 
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/MHVmTJo0s62cwLah3h3SujNkDNSaILOFc1svgCHywlF7wd0vIIzJwU1JisTcQGAG/file)
+
+> C'est un terrain communal, des espaces verts. Nantes habitat nous a prêt un local au sous-sol pour déposer notre matériel. La ville a financé des opérations comme le grillage, c'est du solide! 
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/ehtOObhtBBMKa8gTCljcn6FEFqX1I6094WH42qBh0a0UKV1DUGiujScGvfYjG9or/file)
+
+> On a joué le jeu de ne pas fermer à clef. Le fait d'associer le public au jardin (enfants, ...) les responsabilise.
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/vh7ww2CFfg8WcrzyGJb5wVBBwILrJSwo1JyhzW6wmJyl4R2Bf5UhVBolPeQXbD7A/file)
+
+> Si vous ne l'aviez pas compris, nous sommes retraitées! 
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/gwQQItMsCqZG4EpkWi6Y6btAFWOwpWDdGo1Rn6AYb3fEN0LX4ZdZ3sxMphdAa1BA/file)
+
+### La mairie de Nantes se positionne comme accompagnatrice des projets citoyens
 
 Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/institution/conseil-municipal/vos-65-elu-e-s/pierre-yves-le-brun.html), conseiller municipal "Ecotourisme et jardins familiaux" à la ville de Nantes. 
 
