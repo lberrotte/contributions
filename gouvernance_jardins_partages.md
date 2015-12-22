@@ -10,7 +10,7 @@
 
 Cette balade exploratoire s'est déroulée à l’occasion du festival francophone le Temps des #communs. Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.org/) ont proposé d’organiser une exploration des jardins partagés de l’agglomération nantaise le samedi 3 octobre de 14h à 17h. L’objectif est double : découvrir et valoriser ces jardiniers, mais aussi mieux comprendre l’histoire du jardin, son organisation collective. Un article de présentation de la journée est visible sur [Bretagne Créative](http://www.bretagne-creative.net/article733.html).
 
-## La gouvernance des jardins partagés de Beaulieu
+## Aux jardins partagés de Beaulieu, on partage les légumes en mangeant ensemble.
 
 > Un bailleur social nous (associaiton) à délégué en 2013 la gestion de son terrain ...  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/kF02vlc7ZSif3uTQyQHFS2NQWgCfBcLn7my2CBLw4ViUD4Ag4Vfj3JsTDldGMmGp/file)
 
@@ -26,7 +26,7 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 
 ### En visite aux Jardins Familiaux du [Breil Coubertin](http://www.jardins.nantes.fr/N/Localisation/Site-1-Localisation.asp?codsit=%201944&p=239)
 
-### Jardin partagé du Breil 
+### Aux jardins partagés du Breil, on partage les récoltes équitablement. Nous avons défini une charte et nous réunissons en assemblée. 
 
 > Après deux ans de réflexion avec des habitants du quartier on a décidé de lancer une parcelle. On était 7-8 à s'en occuper. Puis la mairie nous a proposé une plus grosse parcelle et on a accepté.  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/3YHdZNBRFX9vH86bYMqAeolVqknlVbDXuCBXi4NVYsiRCb4AWqNarmWibdCwIjUL/file)
 
