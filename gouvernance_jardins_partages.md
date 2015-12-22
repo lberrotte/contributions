@@ -89,7 +89,7 @@ Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/in
 
 ## Sources
 
-* Les pistes audio ont été 
+* Pistes audio produites par Côme Marchadier, Gwendal Briand, Laurene Caudal & Amandine Piron selon les termes de la licence Creative Commons BY-SA. 
 * Artice mis en page par Thomas Wolff, sous licence Creative Commons BY-SA
 
 ### Incorporer cet article à mon site web? 
@@ -99,6 +99,10 @@ Vous avez la possibilité de faire apparaître sur votre site web cet article, i
 Pour cela, insérez dans une des pages de votre site le code suivant: 
 
 >`<script src="https://cdn.rawgit.com/vinyll/anywhere/master/dist/anywhere.js"></script><script>Anywhere.config.default = {user: "tempsdescommuns", repo: "contributions"};</script><div data-anywhere="gouvernance_jardins_partages"></div>`
+
+Cet article apparaît depuis [multibao](http://www.multibao.org/tempsdescommuns/contributions/gouvernance_jardins_partages.md) et est [modifiable sous conditions](http://www.multibao.org/multibao/contributions/pages/enrichir_les_ressources_communes_existantes_via_l_editeur.md).
+
+Bonne utilisation. T. Wolff.
 
 
 
