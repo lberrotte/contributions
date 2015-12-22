@@ -15,7 +15,7 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 **Propos recueillis par [...], sous licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)**
 
 > Lorsqu'un bailleur social délègue en 2013 la gestion de son terrain à une association ...  
-> A écouter [ici](https://dl.dropboxusercontent.com/content_link/kF02vlc7ZSif3uTQyQHFS2NQWgCfBcLn7my2CBLw4ViUD4Ag4Vfj3JsTDldGMmGp/file)
+> [► A écouter ici](https://dl.dropboxusercontent.com/content_link/kF02vlc7ZSif3uTQyQHFS2NQWgCfBcLn7my2CBLw4ViUD4Ag4Vfj3JsTDldGMmGp/file)
 
 > On m'a délégué les compétences en tant qu'animatrice salariée à raison de 10 heures de formation par mois durant une année. 
 > A écouter [ici](https://dl.dropboxusercontent.com/content_link/WTfMKomngDtIj1kMnhMqHSbOdTt7lQVoFYkOYVfKYR0N0GSKPMZR0vPOoaN3z9Qk/file)
