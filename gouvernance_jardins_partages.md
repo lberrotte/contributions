@@ -89,6 +89,8 @@ Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/in
 
 ## Sources
 
+![CC](http://educoo.org/img/by-sa.png)
+
 * Pistes audio produites par Côme Marchadier, Gwendal Briand, Laurene Caudal & Amandine Piron selon les termes de la licence Creative Commons BY-SA. 
 * Artice mis en page par Thomas Wolff, sous licence Creative Commons BY-SA
 
