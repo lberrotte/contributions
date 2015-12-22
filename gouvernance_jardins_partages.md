@@ -1,8 +1,9 @@
-# Paroles sur la gouvernance pour les jardins partagés.
+# Paroles de jardiniers sur la gouvernance de leur jardin partagé.
 
-> Ici, on partage les légumes en mangeant ensemble. 
+> "Ici, on partage les légumes en mangeant ensemble." "Nous, on a une parcelle centrale puis chaque famille a sa parcelle". "On fait des sachets équitables lors de chaque récolte". A travers 4 exemples de jardins partagés/familiaux, découvrez comment la gouvernance est pensée/vécue afin que toutes et tous puissent s'approprier l'espace et ses ressources, sans pour autant réduire l'initiative individuelle. 
 
-![Jardins partagés](http://www.nantesvillecomestible.org/wp-content/uploads/2015/09/photo_3_article_ouishare-50f01-604x270.jpg) *Photo par [Jalb](https://www.flickr.com/photos/jalb/), selon les termes de la licence Creative Commons BY-NC-ND*
+![Jardinpartagé](https://c1.staticflickr.com/1/635/21661372392_4b034e30f3_b.jpg). *Photo par [Alain Leliepvre](https://www.flickr.com/photos/leliepvre-alain/21661372392/) sous licence CC-BY-NC-SA
+
 
 ## En contexte nantais
 
