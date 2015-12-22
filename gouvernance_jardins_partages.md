@@ -42,7 +42,7 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 
 > Si vous ne l'aviez pas compris, nous sommes retraitées! [► à écouter ici](https://dl.dropboxusercontent.com/content_link/gwQQItMsCqZG4EpkWi6Y6btAFWOwpWDdGo1Rn6AYb3fEN0LX4ZdZ3sxMphdAa1BA/file)
 
-## Je loue une parcelle dans les jardins familiaux du Breil
+## Aux jardins familiaux du Breil, chacun sa parcelle dans un cadre partagé.
 
 > J'ai un ami qui a la parcelle accollée à celle que j'ai aujourd'hui, du coup j'ai pris l'occasion... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/RezmQhk9h9x7t1UKDEJZdnEaIckotXAzQ9URt4enZHhoM3pvbfUKoynxXXzPrQxZ/file)
 
@@ -52,12 +52,22 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 
 > On échange entre jardiniers, on donne aux gens qui passent. Sa fait du bien aux gens du quartier de voir des fleurs. On a quelques relations avec les habitants, ceci dit pour ça il y a un jardin partagé... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/bROCcojsP96U0qkNLZ2F6NBPOVfmRFTvtteZP7PDCPUONyCELb4MKJnV24oFUlKa/file)
 
+## Jardins familiaux de la médiathèque, on peut se servir au milieu mais pas sur les côtés. 
 
+> C'est un jardin public de la ville de Nantes qui n'était pas très fréquenté. Quelques riverains en ont pris soin et ont installé un potager. Ils ont monté une association. Le service des espaces vert a nettoyé l'espace pour les parcelles... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/Je7c5dI6QtRELH3vrEYl2lEPDix4jXVenq9sKGlg4YS3pW7RSi5VtvynzKHzDhJy/file)
 
+> Il y a une parcelle centrale et des parcelles individuelle. Chaque parcelle est attribuée à une famille. La parcelle commune est à cultiver en commun. Tout le monde peut venir s'y servir... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/4Gbks9oR9yJofTkPrbQs7Z9JmZSJ1jQrSSjeB5wXlghySSGwNhGEctLknzusHzts/file)
 
+> Le service des espaces verts s'occupe des arbres fruitiers. Il y a même deux parcelles handicapées... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/JwphdqmGHoSXuLpc8s2g0Tz3wJhwGmOQzLUX4TjbQ2LXAyYlCbn2D5OAK8ulBzut/file)
 
+> On se réunit au moins une fois par mois de façon formelle, puis plusieurs fois par an pour du papotager. On essaye d'avoir des moments festifs... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/rpEKbA6MWOLYyRwbaRKn68qSk4JFT47IVGWA8HUMVCSBAFYkm8J4FncZgxb7X3bZ/file)
 
+> L'association distribue les jardins partagés. Il y a une liste d'attente, en moyenne un an/un an et demi... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/elrWRCYqZlrMfwpzUhCiMqBXjlAJ4DZFkmfjQs55GU5mRyuQ8NbUijoCqGjjS7BQ/file)
 
+> Les petits soucis (vandalisme, dégradations) ont généré une baisse de motivation. On a alors débuté à mettre des affiches, des panneaux. Ensuite la mairie a installé des ganivelles (barrières). On a fait deux après-midi de sensibilisation. On a essayé de se rendre plus disponibles pour échanger... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/EzfRHssxwjvPOEtdeGIe1fB3QWDb8YZL7GcO2nFvYavnAYoDzMVnNxAliRCl7vQv/file)
+
+> Un drapeau rouge sur une parcelle signifie que vous pouvez arroser le jardin, et en même temps arroser. On se soutient.
+[► à écouter ici](https://dl.dropboxusercontent.com/content_link/M5VwNu5jPZIXTbv9bH6ebMReF70wVluqkVhJtteKS6a3d7FTXeQsBX4bC7Rc3k8d/file)
 
 ### La mairie de Nantes se positionne comme accompagnatrice des projets citoyens
 
