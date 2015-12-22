@@ -15,22 +15,22 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 **Propos recueillis par [...], sous licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)**
 
 > Lorsqu'un bailleur social délègue en 2013 la gestion de son terrain à une association ...  
-> [► A écouter ici](https://dl.dropboxusercontent.com/content_link/kF02vlc7ZSif3uTQyQHFS2NQWgCfBcLn7my2CBLw4ViUD4Ag4Vfj3JsTDldGMmGp/file)
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/kF02vlc7ZSif3uTQyQHFS2NQWgCfBcLn7my2CBLw4ViUD4Ag4Vfj3JsTDldGMmGp/file)
 
 > On m'a délégué les compétences en tant qu'animatrice salariée à raison de 10 heures de formation par mois durant une année. 
-> A écouter [ici](https://dl.dropboxusercontent.com/content_link/WTfMKomngDtIj1kMnhMqHSbOdTt7lQVoFYkOYVfKYR0N0GSKPMZR0vPOoaN3z9Qk/file)
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/WTfMKomngDtIj1kMnhMqHSbOdTt7lQVoFYkOYVfKYR0N0GSKPMZR0vPOoaN3z9Qk/file)
 
 > J'imaginai un projet sur au moins 3 ans pour mobiliser les jeunes et les habitants du quartier ...
-> A écouter [ici](https://dl.dropboxusercontent.com/content_link/iBwpq6dGSeWAl5hlyc0DNAffa013ayXXQbOQ0c6PsDcgAYud0uhyuO83wdmxumy0/file)
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/iBwpq6dGSeWAl5hlyc0DNAffa013ayXXQbOQ0c6PsDcgAYud0uhyuO83wdmxumy0/file)
 
 > Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. ... 
-> A écouter [ici](https://dl.dropboxusercontent.com/content_link/jtR1rhae93kQyWJd2kb3Q9qHHaOsLsmKVB2k7nDjhMBBkrweS3rrLlyc8vajw3tH/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29")
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/jtR1rhae93kQyWJd2kb3Q9qHHaOsLsmKVB2k7nDjhMBBkrweS3rrLlyc8vajw3tH/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29")
 
 > Il n'y a pas de mode de décision "classique". A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs. ... 
-> A écouter [ici](https://dl.dropboxusercontent.com/content_link/qBGZsgqBHYDpkh5uU1FMXLAGN3Uctn91smD4zh3Llge7pEkvBvXa8WP5ZcWOyjDv/file)
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/qBGZsgqBHYDpkh5uU1FMXLAGN3Uctn91smD4zh3Llge7pEkvBvXa8WP5ZcWOyjDv/file)
 
 > Le partage des cultures et des récoltes se fait en mangeant ensemble ... 
-> A écouter [ici](https://dl.dropboxusercontent.com/content_link/USJ4HNk7CJu37Z4hK6z5ISbVZbk7GEVYXmJMQD0SpPzik3NUx65teSyU3EEVZyF6/file)
+> [► à écouter ici](https://dl.dropboxusercontent.com/content_link/USJ4HNk7CJu37Z4hK6z5ISbVZbk7GEVYXmJMQD0SpPzik3NUx65teSyU3EEVZyF6/file)
 
 ### En visite aux Jardins Familiaux du Breil Coubertin
 
