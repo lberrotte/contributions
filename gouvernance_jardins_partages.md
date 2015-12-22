@@ -87,6 +87,18 @@ Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/in
 
 > Cinq modules de formation "le jardin au naturel" sont proposés gratuitement. Il y a une quinzaine de participants à chaque session. 
 
+## Sources
+
+* Les pistes audio ont été 
+* Artice mis en page par Thomas Wolff, sous licence Creative Commons BY-SA
+
+### Incorporer cet article à mon site web? 
+
+Vous avez la possibilité de faire apparaître sur votre site web cet article, il sera automatiquement actualisé en cas de correction et prendra automatiquement la mise en page de votre site web. 
+
+Pour cela, insérez dans une des pages de votre site le code suivant: 
+
+>`<script src="https://cdn.rawgit.com/vinyll/anywhere/master/dist/anywhere.js"></script><script>Anywhere.config.default = {user: "tempsdescommuns", repo: "contributions"};</script><div data-anywhere="gouvernance_jardins_partages"></div>`
 
 
 
