@@ -1,6 +1,7 @@
 # Paroles de jardiniers sur la gouvernance de leur jardin partagé
 
-> "Ici, on partage les légumes en mangeant ensemble." "Nous, on a une parcelle centrale puis chaque famille a sa parcelle". "On fait des sachets équitables lors de chaque récolte". A travers 4 exemples de jardins partagés/familiaux, découvrez comment la gouvernance est pensée/vécue afin que toutes et tous puissent s'approprier l'espace et ses ressources, sans pour autant réduire l'initiative individuelle. Bonne lecture / audition. 
+> "Ici, on partage les légumes en mangeant ensemble." "Nous, on a une parcelle centrale puis chaque famille a sa parcelle". "On fait des sachets équitables lors de chaque récolte". A travers 4 exemples de jardins partagés, découvrez comment la gouvernance est pensée/vécue afin que toutes et tous puissent s'approprier l'espace et ses ressources, sans pour autant réduire l'initiative individuelle.
+> Bonne lecture.
 
 ![Jardinpartagé](https://framapic.org/XDdGzEYBOhSw/w3yQrjSkayx1.jpg)
 
