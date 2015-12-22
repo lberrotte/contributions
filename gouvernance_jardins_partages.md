@@ -1,15 +1,14 @@
-# Paroles de jardiniers sur la gouvernance de leur jardin partagé.
+# Paroles de jardiniers sur la gouvernance de leur jardin partagé
 
-> "Ici, on partage les légumes en mangeant ensemble." "Nous, on a une parcelle centrale puis chaque famille a sa parcelle". "On fait des sachets équitables lors de chaque récolte". A travers 4 exemples de jardins partagés/familiaux, découvrez comment la gouvernance est pensée/vécue afin que toutes et tous puissent s'approprier l'espace et ses ressources, sans pour autant réduire l'initiative individuelle. 
+> "Ici, on partage les légumes en mangeant ensemble." "Nous, on a une parcelle centrale puis chaque famille a sa parcelle". "On fait des sachets équitables lors de chaque récolte". A travers 4 exemples de jardins partagés/familiaux, découvrez comment la gouvernance est pensée/vécue afin que toutes et tous puissent s'approprier l'espace et ses ressources, sans pour autant réduire l'initiative individuelle. Bonne lecture / audition. 
 
-![Jardinpartagé](https://c1.staticflickr.com/1/635/21661372392_4b034e30f3_b.jpg). *Photo par [Alain Leliepvre](https://www.flickr.com/photos/leliepvre-alain/21661372392/) sous licence CC-BY-NC-SA
+![Jardinpartagé](https://framapic.org/XDdGzEYBOhSw/w3yQrjSkayx1.jpg)
 
+## Contexte
 
-## En contexte nantais
+Cette balade exploratoire s'est déroulée à l’occasion du festival francophone le Temps des communs. Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.org/) ont proposé d’organiser une exploration des jardins partagés de l’agglomération nantaise le samedi 3 octobre de 14h à 17h. L’objectif est double : découvrir et valoriser ces jardiniers, mais aussi mieux comprendre l’histoire du jardin, son organisation collective. Un article de présentation de la journée est visible sur [Bretagne Créative](http://www.bretagne-creative.net/article733.html).
 
 ![FestivalCommuns](http://www.selfcity.be/uploads/3/8/5/1/38514543/4482453.jpg?294)
-
-Cette balade exploratoire s'est déroulée à l’occasion du festival francophone le Temps des #communs. Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.org/) ont proposé d’organiser une exploration des jardins partagés de l’agglomération nantaise le samedi 3 octobre de 14h à 17h. L’objectif est double : découvrir et valoriser ces jardiniers, mais aussi mieux comprendre l’histoire du jardin, son organisation collective. Un article de présentation de la journée est visible sur [Bretagne Créative](http://www.bretagne-creative.net/article733.html).
 
 ## Aux jardins partagés de Beaulieu, on partage les légumes en mangeant ensemble.
 
