@@ -5,45 +5,43 @@
 
 ![Jardinpartagé](https://framapic.org/XDdGzEYBOhSw/w3yQrjSkayx1.jpg)
 
-## Contexte
+## Introduction
 
-Cette balade exploratoire s'est déroulée à l’occasion du festival francophone le Temps des communs. Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.org/) ont proposé d’organiser une exploration des jardins partagés de l’agglomération nantaise le samedi 3 octobre de 14h à 17h. L’objectif est double : découvrir et valoriser ces jardiniers, mais aussi mieux comprendre l’histoire du jardin, son organisation collective. Un article de présentation de la journée est visible sur [Bretagne Créative](http://www.bretagne-creative.net/article733.html).
+Cette balade exploratoire s'est déroulée à l’occasion du festival francophone [Le Temps des communs](http://tempsdescommuns.org). Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.org/) ont proposé d’organiser une exploration des jardins partagés de l’agglomération nantaise le samedi 3 octobre de 14h à 17h. L’objectif est double : découvrir et valoriser ces jardiniers, mais aussi mieux comprendre l’histoire du jardin, son organisation collective. Un article de présentation de la journée est visible sur [Bretagne Créative](http://www.bretagne-creative.net/article733.html). Cette article propose une restitution écrite et audio de la journée.
 
-![FestivalCommuns](http://www.selfcity.be/uploads/3/8/5/1/38514543/4482453.jpg?294)
+## Aux jardins partagés de Beaulieu (Nantes), on partage les légumes en mangeant ensemble.
 
-## Aux jardins partagés de Beaulieu, on partage les légumes en mangeant ensemble.
+> Un bailleur social nous (association) a délégué en 2013 la gestion de son terrain ...  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/kF02vlc7ZSif3uTQyQHFS2NQWgCfBcLn7my2CBLw4ViUD4Ag4Vfj3JsTDldGMmGp/file)
 
-> Un bailleur social nous (associaiton) à délégué en 2013 la gestion de son terrain ...  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/kF02vlc7ZSif3uTQyQHFS2NQWgCfBcLn7my2CBLw4ViUD4Ag4Vfj3JsTDldGMmGp/file)
-
-> On m'a délégué les compétences en tant qu'animatrice salariée à raison de 10 heures de formation par mois durant une année. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/WTfMKomngDtIj1kMnhMqHSbOdTt7lQVoFYkOYVfKYR0N0GSKPMZR0vPOoaN3z9Qk/file)
+> En tant qu'animatrice salariée j'ai été formée à raison de 10 heures de formation par mois durant une année. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/WTfMKomngDtIj1kMnhMqHSbOdTt7lQVoFYkOYVfKYR0N0GSKPMZR0vPOoaN3z9Qk/file)
 
 > J'imaginai un projet sur au moins 3 ans pour mobiliser les jeunes et les habitants du quartier ... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/iBwpq6dGSeWAl5hlyc0DNAffa013ayXXQbOQ0c6PsDcgAYud0uhyuO83wdmxumy0/file)
 
 > Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. ... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/jtR1rhae93kQyWJd2kb3Q9qHHaOsLsmKVB2k7nDjhMBBkrweS3rrLlyc8vajw3tH/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29")
 
-> Il n'y a pas de mode de décision "classique". A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs. ...  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/qBGZsgqBHYDpkh5uU1FMXLAGN3Uctn91smD4zh3Llge7pEkvBvXa8WP5ZcWOyjDv/file)
+> A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs. ...  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/qBGZsgqBHYDpkh5uU1FMXLAGN3Uctn91smD4zh3Llge7pEkvBvXa8WP5ZcWOyjDv/file)
 
 > Le partage des cultures et des récoltes se fait en mangeant ensemble ... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/USJ4HNk7CJu37Z4hK6z5ISbVZbk7GEVYXmJMQD0SpPzik3NUx65teSyU3EEVZyF6/file)
 
-## Aux jardins partagés du Breil, on partage les récoltes équitablement. Nous avons défini une charte et nous réunissons en assemblée. 
+## Aux jardins partagés du Breil, nous partageons les récoltes à parts égales. Nous nous réunissons en assemblée et avons une charte. 
 
 > Après deux ans de réflexion avec des habitants du quartier on a décidé de lancer une parcelle. On était 7-8 à s'en occuper. Puis la mairie nous a proposé une plus grosse parcelle et on a accepté.  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/3YHdZNBRFX9vH86bYMqAeolVqknlVbDXuCBXi4NVYsiRCb4AWqNarmWibdCwIjUL/file)
 
-> Pour le fonctionnement on se retrouve avec une régularité différente en fonction des saisons. A la récolte il y en a une qui prend tout ce qui a été ramassé, fait des petits sachets, et on distribue. Pour les petits pois, il n'y en a que deux qui les récoltent, mais on fait un repas collectif. Pour le repas c'est chez Renée, à la campagne!  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/m55jGEb4j8BqI3jBfVxpzSKScwpRqIcfTmpWsvUzL9CQz69eOKYsjKsKVtqL2d4H/file)
+> On se retrouve avec une régularité différente en fonction des saisons. A la récolte il y en a une qui prend tout ce qui a été ramassé, fait des petits sachets, et on distribue. Pour les petits pois, il n'y en a que deux qui les récoltent, mais on fait un repas collectif. Pour le repas c'est chez Renée, à la campagne!  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/m55jGEb4j8BqI3jBfVxpzSKScwpRqIcfTmpWsvUzL9CQz69eOKYsjKsKVtqL2d4H/file)
 
 > Une petite assemblée avant le printemps pour définir ce qu'on a envie de mettre dans le jardin. On demande à Jeannette, elle connaît les cultures. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/JnmfG2rtWThyJmG4CZvcD4BL52wjNhGBccEez8ONNjVYnM98znE1ewSisNIIfJDI/file)
 
-> On a établi une charte dès le début du jardin, qu'on revérifie au début de chaque printemps. Il faut semer pour récolter. Ceci dit parfois on est généreuses. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/hgQekhW90i2tivRcbDWslSOil7iBUa71MfG0jT87boMTEsVJb47e8QXbNXioFSK6/file)
+> On a établi une charte dès le début du printemps, qu'on revérifie au début de chaque année. Il faut semer pour récolter. Ceci dit parfois on est généreuses. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/hgQekhW90i2tivRcbDWslSOil7iBUa71MfG0jT87boMTEsVJb47e8QXbNXioFSK6/file)
 
 > Au départ il y avait 4 associations liées au jardin, maintenant il n'y en a plus qu'une. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/MHVmTJo0s62cwLah3h3SujNkDNSaILOFc1svgCHywlF7wd0vIIzJwU1JisTcQGAG/file)
 
-> C'est un terrain communal, des espaces verts. Nantes habitat nous a prêt un local au sous-sol pour déposer notre matériel. La ville a financé des opérations comme le grillage, c'est du solide! [► à écouter ici](https://dl.dropboxusercontent.com/content_link/ehtOObhtBBMKa8gTCljcn6FEFqX1I6094WH42qBh0a0UKV1DUGiujScGvfYjG9or/file)
+> C'est un terrain communal, des espaces verts. Nantes habitat nous a prêté un local au sous-sol pour déposer notre matériel. La ville a financé des opérations comme le grillage, c'est du solide! [► à écouter ici](https://dl.dropboxusercontent.com/content_link/ehtOObhtBBMKa8gTCljcn6FEFqX1I6094WH42qBh0a0UKV1DUGiujScGvfYjG9or/file)
 
-> On a joué le jeu de ne pas fermer à clef. Le fait d'associer le public au jardin (enfants, ...) les responsabilise. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/vh7ww2CFfg8WcrzyGJb5wVBBwILrJSwo1JyhzW6wmJyl4R2Bf5UhVBolPeQXbD7A/file)
+> On a joué le jeu de ne pas fermer à clef. Le fait d'associer le public (enfants, ...) les responsabilise. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/vh7ww2CFfg8WcrzyGJb5wVBBwILrJSwo1JyhzW6wmJyl4R2Bf5UhVBolPeQXbD7A/file)
 
 > Si vous ne l'aviez pas compris, nous sommes retraitées! [► à écouter ici](https://dl.dropboxusercontent.com/content_link/gwQQItMsCqZG4EpkWi6Y6btAFWOwpWDdGo1Rn6AYb3fEN0LX4ZdZ3sxMphdAa1BA/file)
 
-## Aux jardins familiaux du Breil, chacun sa parcelle dans un cadre partagé.
+## Aux jardins familiaux du Breil, chacun loue sa parcelle.
 
 > J'ai un ami qui a la parcelle accollée à celle que j'ai aujourd'hui, du coup j'ai pris l'occasion... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/RezmQhk9h9x7t1UKDEJZdnEaIckotXAzQ9URt4enZHhoM3pvbfUKoynxXXzPrQxZ/file)
 
@@ -53,13 +51,13 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 
 > On échange entre jardiniers, on donne aux gens qui passent. Sa fait du bien aux gens du quartier de voir des fleurs. On a quelques relations avec les habitants, ceci dit pour ça il y a un jardin partagé... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/bROCcojsP96U0qkNLZ2F6NBPOVfmRFTvtteZP7PDCPUONyCELb4MKJnV24oFUlKa/file)
 
-## Jardins familiaux de la médiathèque, on peut se servir au milieu mais pas sur les côtés. 
+## Aux jardins familiaux de la médiathèque, on peut se servir au milieu mais pas sur les côtés. 
 
-> C'est un jardin public de la ville de Nantes qui n'était pas très fréquenté. Quelques riverains en ont pris soin et ont installé un potager. Ils ont monté une association. Le service des espaces vert a nettoyé l'espace pour les parcelles... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/Je7c5dI6QtRELH3vrEYl2lEPDix4jXVenq9sKGlg4YS3pW7RSi5VtvynzKHzDhJy/file)
+> Notre jardin était historiquement un jardin public de la ville de Nantes qui n'était pas très fréquenté. Quelques riverains en ont pris soin et ont installé un potager. Ils ont monté une association. La ville leur a délégué la gestion et les a aidé. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/Je7c5dI6QtRELH3vrEYl2lEPDix4jXVenq9sKGlg4YS3pW7RSi5VtvynzKHzDhJy/file)
 
 > Il y a une parcelle centrale et des parcelles individuelle. Chaque parcelle est attribuée à une famille. La parcelle commune est à cultiver en commun. Tout le monde peut venir s'y servir... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/4Gbks9oR9yJofTkPrbQs7Z9JmZSJ1jQrSSjeB5wXlghySSGwNhGEctLknzusHzts/file)
 
-> Le service des espaces verts s'occupe des arbres fruitiers. Il y a même deux parcelles handicapées... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/JwphdqmGHoSXuLpc8s2g0Tz3wJhwGmOQzLUX4TjbQ2LXAyYlCbn2D5OAK8ulBzut/file)
+> Le service des espaces verts s'occupe des arbres fruitiers... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/JwphdqmGHoSXuLpc8s2g0Tz3wJhwGmOQzLUX4TjbQ2LXAyYlCbn2D5OAK8ulBzut/file)
 
 > On se réunit au moins une fois par mois de façon formelle, puis plusieurs fois par an pour du papotager. On essaye d'avoir des moments festifs... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/rpEKbA6MWOLYyRwbaRKn68qSk4JFT47IVGWA8HUMVCSBAFYkm8J4FncZgxb7X3bZ/file)
 
@@ -74,11 +72,7 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 
 Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/institution/conseil-municipal/vos-65-elu-e-s/pierre-yves-le-brun.html), conseiller municipal "Ecotourisme et jardins familiaux" à la ville de Nantes. 
 
-<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="250" height="20">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/1ZmOFSxTakU4GujTg7hAp2GRsUm3OcvH71cVVB5UiTiZaptsvEPY8q29OszXz2TE/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29" />
-</object>
+[► à écouter ici](https://dl.dropboxusercontent.com/content_link/1ZmOFSxTakU4GujTg7hAp2GRsUm3OcvH71cVVB5UiTiZaptsvEPY8q29OszXz2TE/file)
 
 #### Extraits 
 
