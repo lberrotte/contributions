@@ -1,4 +1,4 @@
-# Quelle gouvernance pour les jardins partagés ? 
+# Paroles sur la gouvernance pour les jardins partagés.
 
 > Ici, on partage les légumes en mangeant ensemble. 
 
@@ -24,9 +24,7 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 
 > Le partage des cultures et des récoltes se fait en mangeant ensemble ... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/USJ4HNk7CJu37Z4hK6z5ISbVZbk7GEVYXmJMQD0SpPzik3NUx65teSyU3EEVZyF6/file)
 
-### En visite aux Jardins Familiaux du [Breil Coubertin](http://www.jardins.nantes.fr/N/Localisation/Site-1-Localisation.asp?codsit=%201944&p=239)
-
-### Aux jardins partagés du Breil, on partage les récoltes équitablement. Nous avons défini une charte et nous réunissons en assemblée. 
+## Aux jardins partagés du Breil, on partage les récoltes équitablement. Nous avons défini une charte et nous réunissons en assemblée. 
 
 > Après deux ans de réflexion avec des habitants du quartier on a décidé de lancer une parcelle. On était 7-8 à s'en occuper. Puis la mairie nous a proposé une plus grosse parcelle et on a accepté.  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/3YHdZNBRFX9vH86bYMqAeolVqknlVbDXuCBXi4NVYsiRCb4AWqNarmWibdCwIjUL/file)
 
