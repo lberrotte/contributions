@@ -42,6 +42,23 @@ Cette balade exploratoire s'est déroulée à l’occasion du festival francopho
 
 > Si vous ne l'aviez pas compris, nous sommes retraitées! [► à écouter ici](https://dl.dropboxusercontent.com/content_link/gwQQItMsCqZG4EpkWi6Y6btAFWOwpWDdGo1Rn6AYb3fEN0LX4ZdZ3sxMphdAa1BA/file)
 
+## Je loue une parcelle dans les jardins familiaux du Breil
+
+> J'ai un ami qui a la parcelle accollée à celle que j'ai aujourd'hui, du coup j'ai pris l'occasion... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/RezmQhk9h9x7t1UKDEJZdnEaIckotXAzQ9URt4enZHhoM3pvbfUKoynxXXzPrQxZ/file)
+
+> On est sur un terrain communal, que je loue 35 euros par an tout compris. J'ai une parcelle de 66m²... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/YMPDMrMj9Lv5oYI4IrJJnMV6MXfi8wagE06PiXLlKtzvqUVYSzaSuhnLBcEnYCfJ/file)
+
+> Ici chacun a sa parcelle, on a un local commun c'est tout... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/fYJ4ggEH0dVbioHFv15BBHed9etw8puxKYN9UUBXixDplMw7lKvyzsJG2YWXuPda/file)
+
+> On échange entre jardiniers, on donne aux gens qui passent. Sa fait du bien aux gens du quartier de voir des fleurs. On a quelques relations avec les habitants, ceci dit pour ça il y a un jardin partagé... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/bROCcojsP96U0qkNLZ2F6NBPOVfmRFTvtteZP7PDCPUONyCELb4MKJnV24oFUlKa/file)
+
+
+
+
+
+
+
+
 ### La mairie de Nantes se positionne comme accompagnatrice des projets citoyens
 
 Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/institution/conseil-municipal/vos-65-elu-e-s/pierre-yves-le-brun.html), conseiller municipal "Ecotourisme et jardins familiaux" à la ville de Nantes. 
