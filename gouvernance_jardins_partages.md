@@ -16,17 +16,17 @@ Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.
 
 ## Aux jardins partagés de Beaulieu (Nantes), on partage les légumes en mangeant ensemble.
 
-> Un bailleur social nous (association) a délégué en 2013 la gestion de son terrain ...  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/kF02vlc7ZSif3uTQyQHFS2NQWgCfBcLn7my2CBLw4ViUD4Ag4Vfj3JsTDldGMmGp/file)
+> Un bailleur social nous (association) a délégué en 2013 la gestion de son terrain ...  [► à écouter ici](https://www.dropbox.com/s/j4r9renut2mftvl/1-JardinBeaulieu-histoiredujardin.mp3?dl=0)
 
-> En tant qu'animatrice salariée j'ai été formée à raison de 10 heures de formation par mois durant une année. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/WTfMKomngDtIj1kMnhMqHSbOdTt7lQVoFYkOYVfKYR0N0GSKPMZR0vPOoaN3z9Qk/file)
+> En tant qu'animatrice salariée j'ai été formée à raison de 10 heures de formation par mois durant une année. [► à écouter ici](https://www.dropbox.com/s/a2mcmir2kdqm7ec/2-JardinBeaulieu.mp3?dl=0)
 
-> J'imaginai un projet sur au moins 3 ans pour mobiliser les jeunes et les habitants du quartier ... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/iBwpq6dGSeWAl5hlyc0DNAffa013ayXXQbOQ0c6PsDcgAYud0uhyuO83wdmxumy0/file)
+> J'imaginai un projet sur au moins 3 ans pour mobiliser les jeunes et les habitants du quartier ... [► à écouter ici](https://www.dropbox.com/s/s87neaid8z9cb24/3-JardinBeaulieu.mp3?dl=0)
 
-> Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. ... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/jtR1rhae93kQyWJd2kb3Q9qHHaOsLsmKVB2k7nDjhMBBkrweS3rrLlyc8vajw3tH/file&amp;width=250&amp;showvolume=1&amp;loadingcolor=ffff29")
+> Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. ... [► à écouter ici](https://www.dropbox.com/s/a3nei3ay0ob6j6z/4-JardinBeaulieu.mp3?dl=0)
 
-> A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs. ...  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/qBGZsgqBHYDpkh5uU1FMXLAGN3Uctn91smD4zh3Llge7pEkvBvXa8WP5ZcWOyjDv/file)
+> A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs. ...  [► à écouter ici](https://www.dropbox.com/s/kify4ch8uagisr9/5-JardinBeaulieu.mp3?dl=0)
 
-> Le partage des cultures et des récoltes se fait en mangeant ensemble ... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/USJ4HNk7CJu37Z4hK6z5ISbVZbk7GEVYXmJMQD0SpPzik3NUx65teSyU3EEVZyF6/file)
+> Le partage des cultures et des récoltes se fait en mangeant ensemble ... [► à écouter ici](https://www.dropbox.com/s/qhz00iwsezkshu4/6-JardinBeaulieu.mp3?dl=0)
 
 ## Aux jardins partagés du Breil, nous partageons les récoltes à parts égales. Nous nous réunissons en assemblée et avons une charte. 
 
