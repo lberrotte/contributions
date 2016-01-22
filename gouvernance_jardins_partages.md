@@ -5,16 +5,10 @@
 
 ![Jardinpartagé](https://framapic.org/XDdGzEYBOhSw/w3yQrjSkayx1.jpg)
 
-<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_multi.swf" width="200" height="100">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_multi.swf" />
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="200" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
     <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/K2UzkQt9aXb45vzmYBlid51t7lDKXpYjxhmI36ySgLUj7g8e0mFTBVOMGlfM8JLj/file" />
-</object>
-
-<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_multi.swf" width="200" height="100">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_multi.swf" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https%3A//www.dropbox.com/s/j4r9renut2mftvl/1-JardinBeaulieu-histoiredujardin.mp3" />
+    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/FGFiIIibwdhx4BdY4JcnlafexyUsmwINLt6YDoCHZjjMMFs4FbSnLPKMALNrk3ig/file&amp;showvolume=1&amp;showslider=0" />
 </object>
 
 ## Introduction
