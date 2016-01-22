@@ -8,13 +8,7 @@
 <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="120" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
     <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/FGFiIIibwdhx4BdY4JcnlafexyUsmwINLt6YDoCHZjjMMFs4FbSnLPKMALNrk3ig/file&amp;width=80&amp;showstop=1&amp;showvolume=1&amp;showslider=0" />
-</object>
-
-<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="120" height="20">
-    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
-    <param name="bgcolor" value="#ffffff" />
-    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/FGFiIIibwdhx4BdY4JcnlafexyUsmwINLt6YDoCHZjjMMFs4FbSnLPKMALNrk3ig/file&amp;width=80&amp;showstop=1&amp;showvolume=1&amp;showslider=0" />
+    <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/FGFiIIibwdhx4BdY4JcnlafexyUsmwINLt6YDoCHZjjMMFs4FbSnLPKMALNrk3ig/file&amp;width=120&amp;showstop=1&amp;showvolume=1&amp;showslider=0" />
 </object>
 
 ## Introduction
