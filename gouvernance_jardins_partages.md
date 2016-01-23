@@ -18,7 +18,15 @@ Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.
 
 ## Aux jardins partagés de Beaulieu (Nantes), on partage les légumes en mangeant ensemble.
 
-> Un bailleur social nous (association) a délégué en 2013 la gestion de son terrain ...     <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="200" height="30" id="playermp3" align="TL">
+<param name="movie" value="https%3A//dl.dropboxusercontent.com/content_link/FGFiIIibwdhx4BdY4JcnlafexyUsmwINLt6YDoCHZjjMMFs4FbSnLPKMALNrk3ig/file" />
+<param name="wmode" value="transparent">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="quality" value="high" />
+<embed src="player.swf?url1=piste1.mp3&url2=piste2.mp3&url3=piste3.mp3" width="200" height="30" wmode="transparent" name="playermp3" align="TL" quality="high" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+</object>
+
+> Un bailleur social nous a délégué en 2013 la gestion de son terrain ...     <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
     <param name="bgcolor" value="#cccccc" />
     <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/FGFiIIibwdhx4BdY4JcnlafexyUsmwINLt6YDoCHZjjMMFs4FbSnLPKMALNrk3ig/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
