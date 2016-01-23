@@ -1,7 +1,8 @@
 # Paroles de jardiniers sur la gouvernance de leur jardin partagé
 
 > "Ici, on partage les légumes en mangeant ensemble." "Nous, on a une parcelle centrale puis chaque famille a sa parcelle". "On fait des sachets équitables lors de chaque récolte". A travers 4 exemples de jardins partagés, découvrez comment la gouvernance est pensée/vécue afin que toutes et tous puissent s'approprier l'espace et ses ressources, sans pour autant réduire l'initiative individuelle.
-> Bonne lecture.
+> Sans analyse, je vous propose une compilation d'extraits retranscrits et écoutables en version audio.
+> Bonne lecture. [Thomas Wolff](twitter.com/thom_wolff)
 
 ![Jardinpartagé](https://framapic.org/XDdGzEYBOhSw/w3yQrjSkayx1.jpg)
 
@@ -80,46 +81,113 @@ Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.
     <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/Rbb5q6o6FBhW8iBvWiPQbm6ExhfKkxyJTkKb1ILkutbsG1UlA3IRXCAZxlQ4nufr/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
 </object>
 
-> Au départ il y avait 4 associations liées au jardin, maintenant il n'y en a plus qu'une. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/MHVmTJo0s62cwLah3h3SujNkDNSaILOFc1svgCHywlF7wd0vIIzJwU1JisTcQGAG/file)
+> Au départ il y avait 4 associations liées au jardin, maintenant il n'y en a plus qu'une... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/ORKEOtQXGPpX6Swr5pVf2T1kYpD6UszOJzPTMdY1ZNvhYSTmJUR60RRk40oBHbR8/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> C'est un terrain communal, des espaces verts. Nantes habitat nous a prêté un local au sous-sol pour déposer notre matériel. La ville a financé des opérations comme le grillage, c'est du solide! [► à écouter ici](https://dl.dropboxusercontent.com/content_link/ehtOObhtBBMKa8gTCljcn6FEFqX1I6094WH42qBh0a0UKV1DUGiujScGvfYjG9or/file)
+> C'est un terrain communal, des espaces verts. Nantes habitat nous a prêté un local au sous-sol pour déposer notre matériel. La ville a financé des opérations comme le grillage, c'est du solide... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/hoxkuUCwT9sRdVDIKxH6B7nxerMNrMA5fELGbXQW2qTodBVVYmWNz1faDjY1Q4EC/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> On a joué le jeu de ne pas fermer à clef. Le fait d'associer le public (enfants, ...) les responsabilise. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/vh7ww2CFfg8WcrzyGJb5wVBBwILrJSwo1JyhzW6wmJyl4R2Bf5UhVBolPeQXbD7A/file)
+> On a joué le jeu de ne pas fermer à clef. Le fait d'associer le public (enfants, ...) les responsabilise... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/972mXmOAXQw1u2f2VOSfiJBFFJi9brhBNfQzDxlfDS07ZYv2TzRt4xTx2cksukVs/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> Si vous ne l'aviez pas compris, nous sommes retraitées! [► à écouter ici](https://dl.dropboxusercontent.com/content_link/gwQQItMsCqZG4EpkWi6Y6btAFWOwpWDdGo1Rn6AYb3fEN0LX4ZdZ3sxMphdAa1BA/file)
+
+> Si vous ne l'aviez pas compris, nous sommes retraitées... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/VpBLIDTk5XYpmJaQ28q0PZpXY9mSb1W0Y04KLBejqut533Kr2PBoY2F8PI0R6iWl/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
+
 
 ## Aux jardins familiaux du Breil, chacun loue sa parcelle.
 
-> J'ai un ami qui a la parcelle accollée à celle que j'ai aujourd'hui, du coup j'ai pris l'occasion... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/RezmQhk9h9x7t1UKDEJZdnEaIckotXAzQ9URt4enZHhoM3pvbfUKoynxXXzPrQxZ/file)
+> J'ai un ami qui a la parcelle accollée à celle que j'ai aujourd'hui, du coup j'ai pris l'occasion... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/5ckeW0p6nc1M0yLv9ZSoZCouhkBmuQh593Wg2BhLTEiuNpgl29ItZO6peqRFhkcn/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> On est sur un terrain communal, que je loue 35 euros par an tout compris. J'ai une parcelle de 66m²... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/YMPDMrMj9Lv5oYI4IrJJnMV6MXfi8wagE06PiXLlKtzvqUVYSzaSuhnLBcEnYCfJ/file)
+> On est sur un terrain communal, que je loue 35 euros par an tout compris. J'ai une parcelle de 66m²... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/WQc0NuUP6EL8mRg7YhagLK1EN7d7xQReVF0QKxNFf5IhvfmPWMCb2GQYZqe8cSWs/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> Ici chacun a sa parcelle, on a un local commun c'est tout... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/fYJ4ggEH0dVbioHFv15BBHed9etw8puxKYN9UUBXixDplMw7lKvyzsJG2YWXuPda/file)
+> Ici chacun a sa parcelle, on a un local commun c'est tout... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/gsxl4VWRhdqv0U6ft5G0nS39TDPmi3ZD56dfWImBRzniHb8iX8vALotMO1vYpxSB/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> On échange entre jardiniers, on donne aux gens qui passent. Sa fait du bien aux gens du quartier de voir des fleurs. On a quelques relations avec les habitants, ceci dit pour ça il y a un jardin partagé... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/bROCcojsP96U0qkNLZ2F6NBPOVfmRFTvtteZP7PDCPUONyCELb4MKJnV24oFUlKa/file)
+> On échange entre jardiniers, on donne aux gens qui passent. Sa fait du bien aux gens du quartier de voir des fleurs. On a quelques relations avec les habitants, ceci dit pour ça il y a un jardin partagé... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/hEyzSJXNphCbVwEf9IiYNflbgKOj8cDGFEhpPLYyq9a3xQcBFlCnErgC73AARJY3/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
 ## Aux jardins familiaux de la médiathèque, on peut se servir au milieu mais pas sur les côtés. 
 
-> Notre jardin était historiquement un jardin public de la ville de Nantes qui n'était pas très fréquenté. Quelques riverains en ont pris soin et ont installé un potager. Ils ont monté une association. La ville leur a délégué la gestion et les a aidé. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/Je7c5dI6QtRELH3vrEYl2lEPDix4jXVenq9sKGlg4YS3pW7RSi5VtvynzKHzDhJy/file)
+> Notre jardin était historiquement un jardin public de la ville de Nantes qui n'était pas très fréquenté. Quelques riverains en ont pris soin et ont installé un potager. Ils ont monté une association. La ville leur a délégué la gestion et les a aidé... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/JwLo2iabb2PZjvCJjc7EnV9NFR0FSMSP5GHTcGWqlM9M92vuY9dhABDZ02Grv0EK/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> Il y a une parcelle centrale et des parcelles individuelle. Chaque parcelle est attribuée à une famille. La parcelle commune est à cultiver en commun. Tout le monde peut venir s'y servir... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/4Gbks9oR9yJofTkPrbQs7Z9JmZSJ1jQrSSjeB5wXlghySSGwNhGEctLknzusHzts/file)
+> Il y a une parcelle centrale et des parcelles individuelle. Chaque parcelle est attribuée à une famille. La parcelle commune est à cultiver en commun. Tout le monde peut venir s'y servir... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/WNYAJM1T9NvwxMXL5z2FECrC4GMw0fnVujgShkcLtSLFKNxNyyKEApSKxDsQTfOi/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> Le service des espaces verts s'occupe des arbres fruitiers... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/JwphdqmGHoSXuLpc8s2g0Tz3wJhwGmOQzLUX4TjbQ2LXAyYlCbn2D5OAK8ulBzut/file)
 
-> On se réunit au moins une fois par mois de façon formelle, puis plusieurs fois par an pour du papotager. On essaye d'avoir des moments festifs... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/rpEKbA6MWOLYyRwbaRKn68qSk4JFT47IVGWA8HUMVCSBAFYkm8J4FncZgxb7X3bZ/file)
+> Le service des espaces verts s'occupe des arbres fruitiers... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/8PHsHFYC6wYqDdsUcZrirofdJcGs4KammNrtTA1rSoR1gniVwfTIOGS9ETvxiAzH/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> L'association distribue les jardins partagés. Il y a une liste d'attente, en moyenne un an/un an et demi... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/elrWRCYqZlrMfwpzUhCiMqBXjlAJ4DZFkmfjQs55GU5mRyuQ8NbUijoCqGjjS7BQ/file)
+> On se réunit au moins une fois par mois de façon formelle, puis plusieurs fois par an pour du papotager. On essaye d'avoir des moments festifs... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/Yrt61NtSszWktbJPLnIr49R25QnM4STYvYJW5LPO1GZNxJZvB3ngWUbELMdR1IGr/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> Les petits soucis (vandalisme, dégradations) ont généré une baisse de motivation. On a alors débuté à mettre des affiches, des panneaux. Ensuite la mairie a installé des ganivelles (barrières). On a fait deux après-midi de sensibilisation. On a essayé de se rendre plus disponibles pour échanger... [► à écouter ici](https://dl.dropboxusercontent.com/content_link/EzfRHssxwjvPOEtdeGIe1fB3QWDb8YZL7GcO2nFvYavnAYoDzMVnNxAliRCl7vQv/file)
+> L'association distribue les jardins partagés. Il y a une liste d'attente, en moyenne un an/un an et demi... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/Q0wKUbzWdKErDymmSSmOrJyWipNMrOzvPg5yhhcmWDTPEAYfxjwBdu5IFrOHSnOG/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
+
+> Les petits soucis (vandalisme, dégradations) ont généré une baisse de motivation. On a alors débuté à mettre des affiches, des panneaux. Ensuite la mairie a installé des ganivelles (barrières). On a fait deux après-midi de sensibilisation. On a essayé de se rendre plus disponibles pour échanger... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/nDOMjygQpXLuS96RlKpPTFtwczMcvSosYqYdTBv729IMX1bHH1mAHN7IP8kwDehr/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
 > Un drapeau rouge sur une parcelle signifie que vous pouvez arroser le jardin, et en même temps arroser. On se soutient.
-[► à écouter ici](https://dl.dropboxusercontent.com/content_link/M5VwNu5jPZIXTbv9bH6ebMReF70wVluqkVhJtteKS6a3d7FTXeQsBX4bC7Rc3k8d/file)
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/zIhus33r1BUCtFX2S43EU3ndX5lTQzGXanOssrnKMYTg9xr398c0YClrlA2T1BUo/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
 ## La mairie de Nantes se positionne comme accompagnatrice des projets citoyens
 
 Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/institution/conseil-municipal/vos-65-elu-e-s/pierre-yves-le-brun.html), conseiller municipal "Ecotourisme et jardins familiaux" à la ville de Nantes. 
 
-[► à écouter ici](https://dl.dropboxusercontent.com/content_link/1ZmOFSxTakU4GujTg7hAp2GRsUm3OcvH71cVVB5UiTiZaptsvEPY8q29OszXz2TE/file)
+<object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/PGRHWwJ9Q0Ct3VqjKkkTN24FdqQxqSD6a8hEyKhBeHFzbToKDuAPTTmPB5YA8KLC/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
 #### Extraits 
 
@@ -134,7 +202,7 @@ Rencontre avec [Pierre-Yves Lebrun](http://www.nantes.fr/home/ville-de-nantes/in
 ![CC](http://educoo.org/img/by-sa.png)
 
 * Pistes audio produites par Côme Marchadier, Gwendal Briand, Laurene Caudal & Amandine Piron selon les termes de la licence Creative Commons BY-SA. 
-* Artice mis en page par Thomas Wolff, sous licence Creative Commons BY-SA
+* Artice mis en page par [Thomas Wolff](twitter.com/thom_wolff), sous licence Creative Commons BY-SA
 
 ### Incorporer cet article à mon site web? 
 
@@ -146,7 +214,7 @@ Pour cela, insérez dans une des pages de votre site le code suivant:
 
 Cet article apparaît depuis [multibao](http://www.multibao.org/tempsdescommuns/contributions/gouvernance_jardins_partages.md) et est [modifiable sous conditions](http://www.multibao.org/multibao/contributions/pages/enrichir_les_ressources_communes_existantes_via_l_editeur.md).
 
-Bonne utilisation. T. Wolff.
+Bonne utilisation. [Thomas Wolff](twitter.com/thom_wolff)
 
 
 
