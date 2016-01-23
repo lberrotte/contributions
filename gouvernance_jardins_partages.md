@@ -18,39 +18,67 @@ Plusieurs membres de [Nantes Ville Comestible](http://www.nantesvillecomestible.
 
 ## Aux jardins partagés de Beaulieu (Nantes), on partage les légumes en mangeant ensemble.
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="200" height="30" id="playermp3" align="TL">
-<param name="movie" value="https%3A//dl.dropboxusercontent.com/content_link/FGFiIIibwdhx4BdY4JcnlafexyUsmwINLt6YDoCHZjjMMFs4FbSnLPKMALNrk3ig/file" />
-<param name="wmode" value="transparent">
-<param name="allowScriptAccess" value="sameDomain" />
-<param name="quality" value="high" />
-<embed src="player.swf?url1=piste1.mp3&url2=piste2.mp3&url3=piste3.mp3" width="200" height="30" wmode="transparent" name="playermp3" align="TL" quality="high" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
-</object>
-
 > Un bailleur social nous a délégué en 2013 la gestion de son terrain ...     <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
     <param name="bgcolor" value="#cccccc" />
     <param name="FlashVars" value="mp3=https%3A//dl.dropboxusercontent.com/content_link/FGFiIIibwdhx4BdY4JcnlafexyUsmwINLt6YDoCHZjjMMFs4FbSnLPKMALNrk3ig/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
 </object>
 
-> En tant qu'animatrice salariée j'ai été formée à raison de 10 heures de formation par mois durant une année. [► à écouter ici](https://www.dropbox.com/s/a2mcmir2kdqm7ec/2-JardinBeaulieu.mp3?dl=0)
+> En tant qu'animatrice salariée j'ai été formée à raison de 10 heures de formation par mois durant une année... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/kx2U1AZV3JujRbX5J1hjplYudfl1oQOIgbAQLpR3hZomGw6eDYu1B0lhNdKie0tK/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> J'imaginai un projet sur au moins 3 ans pour mobiliser les jeunes et les habitants du quartier ... [► à écouter ici](https://www.dropbox.com/s/s87neaid8z9cb24/3-JardinBeaulieu.mp3?dl=0)
+> J'imaginai un projet sur au moins 3 ans pour mobiliser les jeunes et les habitants du quartier ... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/JAYjtoSgfyqhf2MlVRwGeRfDdZ2Xt26Jy44I3iYy4qwkMQvsCsBPUABHCGyHgOxO/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. ... [► à écouter ici](https://www.dropbox.com/s/a3nei3ay0ob6j6z/4-JardinBeaulieu.mp3?dl=0)
+> Une analyse de sol révèle un taux de cuivre 5 fois supérieur à la moyenne (pollution). La ville propose la mise en place de bacs. Le bailleur finance les bacs à moitié. ... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/QTDfct3di5sJsAIqjSa1J7SXifcQg8k7mjPC6OWgNWguYSzevig2w1TfYj7LIApA/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs. ...  [► à écouter ici](https://www.dropbox.com/s/kify4ch8uagisr9/5-JardinBeaulieu.mp3?dl=0)
+> A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs. ...  <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/tOV15f0jO2gGeWZSUyISzYEfYhstvDKKZ5N70joeD5T4kQbZbeGgtRkg2ZErIBAw/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> Le partage des cultures et des récoltes se fait en mangeant ensemble ... [► à écouter ici](https://www.dropbox.com/s/qhz00iwsezkshu4/6-JardinBeaulieu.mp3?dl=0)
+> Le partage des cultures et des récoltes se fait en mangeant ensemble ... > A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs. ...  <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/iAd8Dc4JnScOX5EilVKKbnlb8kRMm48kMtj8wyBzsKDhkfyK48Cl1QJ5ej6JI0cg/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
 ## Aux jardins partagés du Breil, nous partageons les récoltes à parts égales. Nous nous réunissons en assemblée et avons une charte. 
 
-> Après deux ans de réflexion avec des habitants du quartier on a décidé de lancer une parcelle. On était 7-8 à s'en occuper. Puis la mairie nous a proposé une plus grosse parcelle et on a accepté.  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/3YHdZNBRFX9vH86bYMqAeolVqknlVbDXuCBXi4NVYsiRCb4AWqNarmWibdCwIjUL/file)
+> Après deux ans de réflexion avec des habitants du quartier on a décidé de lancer une parcelle. On était 7-8 à s'en occuper. Puis la mairie nous a proposé une plus grosse parcelle et on a accepté... > Le partage des cultures et des récoltes se fait en mangeant ensemble ... > A des moments je reviens vers la direction de l'association lorsque je ne peux pas - seule ou avec les usagers - décider. Par exemple au sujet d'investissements. Je fais le lien entre les acteurs...  <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/9lY7U0wQIUobY6TApIJo028HUrNX0zlyconT6FnKlJIIrA6akWBPyBvOvW8K5w7F/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> On se retrouve avec une régularité différente en fonction des saisons. A la récolte il y en a une qui prend tout ce qui a été ramassé, fait des petits sachets, et on distribue. Pour les petits pois, il n'y en a que deux qui les récoltent, mais on fait un repas collectif. Pour le repas c'est chez Renée, à la campagne!  [► à écouter ici](https://dl.dropboxusercontent.com/content_link/m55jGEb4j8BqI3jBfVxpzSKScwpRqIcfTmpWsvUzL9CQz69eOKYsjKsKVtqL2d4H/file)
+> On se retrouve avec une régularité différente en fonction des saisons. A la récolte il y en a une qui prend tout ce qui a été ramassé, fait des petits sachets, et on distribue. Pour les petits pois, il n'y en a que deux qui les récoltent, mais on fait un repas collectif. Pour le repas c'est chez Renée, à la campagne! <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/EYGdQp9Q8gkmrqt9d7Cqh9PmHkOivUnTCwJR2YH0GS7DA2Of6sGH5oZ6Sa37KEsf/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> Une petite assemblée avant le printemps pour définir ce qu'on a envie de mettre dans le jardin. On demande à Jeannette, elle connaît les cultures. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/JnmfG2rtWThyJmG4CZvcD4BL52wjNhGBccEez8ONNjVYnM98znE1ewSisNIIfJDI/file)
+> Une petite assemblée avant le printemps pour définir ce qu'on a envie de mettre dans le jardin. On demande à Jeannette, elle connaît les cultures... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/Qz4OmuXp2z6czDn2IszkdrzXRuDuCEufAlnSDKrGz787QKM2mHwSVaf3Mj4Haqj0/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
-> On a établi une charte dès le début du printemps, qu'on revérifie au début de chaque année. Il faut semer pour récolter. Ceci dit parfois on est généreuses. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/hgQekhW90i2tivRcbDWslSOil7iBUa71MfG0jT87boMTEsVJb47e8QXbNXioFSK6/file)
+> On a établi une charte dès le début du printemps, qu'on revérifie au début de chaque année. Il faut semer pour récolter. Ceci dit parfois on est généreuses... <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="90" height="20">
+    <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
+    <param name="bgcolor" value="#cccccc" />
+    <param name="FlashVars" value="mp3=https://dl.dropboxusercontent.com/content_link/Rbb5q6o6FBhW8iBvWiPQbm6ExhfKkxyJTkKb1ILkutbsG1UlA3IRXCAZxlQ4nufr/file&amp;width=90&amp;showstop=1&amp;showvolume=1&amp;showslider=0&amp;loadingcolor=cccccc&amp;bgcolor=cccccc&amp;bgcolor1=cccccc&amp;bgcolor2=cccccc&amp;slidercolor2=cccccc&amp;sliderovercolor=cccccc&amp;buttoncolor=7d7d7d&amp;buttonovercolor=7d7d7d&amp;textcolor=7d7d7d" />
+</object>
 
 > Au départ il y avait 4 associations liées au jardin, maintenant il n'y en a plus qu'une. [► à écouter ici](https://dl.dropboxusercontent.com/content_link/MHVmTJo0s62cwLah3h3SujNkDNSaILOFc1svgCHywlF7wd0vIIzJwU1JisTcQGAG/file)
 
